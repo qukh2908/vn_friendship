@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079725401049",
+    "project_id": "vn-friendship",
+    "storage_bucket": "vn-friendship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079725401049:android:993b2502267d626207afc8",
+        "android_client_info": {
+          "package_name": "com.example.vn_friendship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzI1ua8uiO-5OlRv-zQKvzxeJpHsy5q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
